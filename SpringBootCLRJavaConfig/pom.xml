@@ -11,7 +11,7 @@
 	<groupId>com.prabeen</groupId>
 	<artifactId>SpringBootCLRJavaConfig</artifactId>
 	<version>1.0</version>
-	<name>SpringBootCLRJavaConfig</name>
+	<name>SpringBootCLRJavaConfigApp</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
